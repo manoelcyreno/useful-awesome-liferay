@@ -2,13 +2,13 @@
 
 
 
-[<img src="https://avatars.githubusercontent.com/u/131436?s=280&v=4" align="right" width="100">](https://www.liferay.com/)
+[<img src="https://avatars.githubusercontent.com/u/131436?s=280&v=4" align="left" width="100">](https://www.liferay.com/)
 
-[<img src="https://media.trustradius.com/product-logos/k2/oa/612TV5WCJ19M.PNG" align="right" width="100">](https://www.liferay.com/products/dxp)
+[<img src="https://media.trustradius.com/product-logos/k2/oa/612TV5WCJ19M.PNG" align="left" width="100">](https://www.liferay.com/products/dxp)
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowweP-ZbUXqXWWEsMuW2WWdpaZ19G34886foc8UmBFahwPPRc54q2lv0-xLOc4mYZlr4&usqp=CAU" align="right" width="100">](https://www.liferay.com/products/commerce)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowweP-ZbUXqXWWEsMuW2WWdpaZ19G34886foc8UmBFahwPPRc54q2lv0-xLOc4mYZlr4&usqp=CAU" align="left" width="100">](https://www.liferay.com/products/commerce)
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8b8g9hRL5aS0aGzoBQPazyhWQwgcoWVw3ZaOuGljPZf26dvirirGms7WNHRlJLK1RGno&usqp=CAU" align="right" width="100">](https://www.liferay.com/products/analytics-cloud)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8b8g9hRL5aS0aGzoBQPazyhWQwgcoWVw3ZaOuGljPZf26dvirirGms7WNHRlJLK1RGno&usqp=CAU" align="left" width="100">](https://www.liferay.com/products/analytics-cloud)
 
 > Awesome lists about all kinds of interesting topics about Liferay
 
