@@ -10,6 +10,10 @@
 
 ## Userful Information
 * [Liferay 7: Scheduler Manager Gogo Shell Commands](https://www.dontesta.it/en/2017/07/16/liferay-7-scheduler-manager-gogo-shell-command/)
+* QA Engineering Page - Page about the QA team
+    * [Compendium](https://qa-compendium.readthedocs.io/en/latest/)
+    * [Confluence](https://liferay.atlassian.net/wiki/spaces/QA/overview)
+* [Design Page](https://liferay.design/) - Page about the Design team
 
 ## Products
 * [Liferay Portal](https://www.liferay.com/) - A powerful platform for building websites and apps
