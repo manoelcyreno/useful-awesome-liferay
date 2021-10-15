@@ -1,6 +1,19 @@
 # Useful Awesome Liferay Topics
 > Awesome lists about all kinds of interesting topics about Liferay
 
+_Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [rafoli/awesome-liferay](https://github.com/rafoli/awesome-liferay) repo._
+
+## Content
+* [Getting started](https://github.com/manoelcyreno/useful-awesome-liferay#getting-started)
+* [Userful Information](https://github.com/manoelcyreno/useful-awesome-liferay#userful-information)
+* [Products](https://github.com/manoelcyreno/useful-awesome-liferay#products)
+* [Compatibility Matrix](https://github.com/manoelcyreno/useful-awesome-liferay#compatibility-matrix)
+* [Frameworks](https://github.com/manoelcyreno/useful-awesome-liferay#frameworks)
+* [Samples](https://github.com/manoelcyreno/useful-awesome-liferay#samples)
+    * [Frontend Samples](https://github.com/manoelcyreno/useful-awesome-liferay#frontend-samples)
+    * [Test Samples](https://github.com/manoelcyreno/useful-awesome-liferay#test-samples)
+    * [Data Generators](https://github.com/manoelcyreno/useful-awesome-liferay#data-generators)
+
 ## Getting started
 * [Part 1 - Liferay 7, specifications and requirements](https://liferay.dev/blogs/-/blogs/liferay-7-development-part-1)
 * [Part 2 - Gradle, Blade, and project structure](https://liferay.dev/blogs/-/blogs/liferay-7-development-part-2)
