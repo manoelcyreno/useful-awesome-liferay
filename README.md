@@ -13,6 +13,8 @@ _Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing a
     * [Frontend Samples](https://github.com/manoelcyreno/useful-awesome-liferay#frontend-samples)
     * [Test Samples](https://github.com/manoelcyreno/useful-awesome-liferay#test-samples)
     * [Data Generators](https://github.com/manoelcyreno/useful-awesome-liferay#data-generators)
+* [Bash Profile Script](https://github.com/manoelcyreno/useful-awesome-liferay/blob/main/bash_profile)
+* [Scripts Folder](https://github.com/manoelcyreno/useful-awesome-liferay/tree/main/Scripts)
 
 ## Getting started
 * [Part 1 - Liferay 7, specifications and requirements](https://liferay.dev/blogs/-/blogs/liferay-7-development-part-1)
