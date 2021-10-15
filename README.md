@@ -10,6 +10,8 @@
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8b8g9hRL5aS0aGzoBQPazyhWQwgcoWVw3ZaOuGljPZf26dvirirGms7WNHRlJLK1RGno&usqp=CAU" align="left" width="100">](https://www.liferay.com/products/analytics-cloud)
 
+<br/><br/>
+
 > Awesome lists about all kinds of interesting topics about Liferay
 
 _Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [rafoli/awesome-liferay](https://github.com/rafoli/awesome-liferay) repo._
